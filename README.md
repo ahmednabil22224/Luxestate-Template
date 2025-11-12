@@ -7,7 +7,7 @@ This project demonstrates professional front-end layout design, user interaction
 
 ## 🚀 Live Demo
 
-👉 [View Live Demo](https://github.com/ahmednabil22224/Luxestate-Template/)
+👉 [View Live Demo](https://ahmednabil22224.github.io/Luxestate-Template/)
 
 ---
 
