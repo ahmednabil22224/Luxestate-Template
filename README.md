@@ -79,7 +79,9 @@ Luxestate/
 ![Tablet Preview](./images/preview-tablet.png)
 
 **Mobile View**
-![Mobile Preview](./images/preview-mobile.png)
+<div align="center">
+  <img src="./images/preview-mobile.png" width="400" alt="Mobile Screenshot" />
+</div>
 =======
 
 ---
